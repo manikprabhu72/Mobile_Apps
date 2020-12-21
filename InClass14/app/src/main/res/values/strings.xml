@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InClass14</string>
+    <string name="ib_desc">Description</string>
+    <string name="title_activity_trip_map">Map</string>
+    <string name="et_trip_name_hint">Enter Trip Name</string>
+    <string name="bt_search">Search</string>
+    <string name="et_city_hint">Search for a City</string>
+    <string name="bt_add_trip">Add Trip</string>
+    <string name="api_key">AIzaSyAnfaEwvQ-FD04gX2XThvVpug4WScwofxg</string>
+</resources>

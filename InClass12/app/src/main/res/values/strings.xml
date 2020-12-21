@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="email_autofill">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_register">Sign Up</string>
+    <string name="et_fname_hint">First Name</string>
+    <string name="et_lname_hint">Last Name</string>
+    <string name="et_email_hint">Email</string>
+    <string name="et_pass_hint">Password</string>
+    <string name="et_conf_pass_hint">Confirm Password</string>
+    <string name="image_desc">Description</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_title">Title</string>
+    <string name="bt_ok">OK</string>
+    <string name="bt_delete">Delete</string>
+    <string name="bt_add">Add</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_new_contact">Create New Contact</string>
+    <string name="tv_number">980-XXX-YYYY</string>
+    <string name="et_name_hint">Name</string>
+    <string name="et_number">Phone</string>
+    <string name="bt_submit">Submit</string>
+</resources>

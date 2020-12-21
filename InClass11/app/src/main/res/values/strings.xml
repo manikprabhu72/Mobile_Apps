@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InClass11</string>
+    <string name="tv_current">Current Expenses:</string>
+    <string name="iv_desc">Image Description</string>
+    <string name="tv_empty">There is no expense to show, Please add your expenses from the menu.</string>
+    <string name="tv_add">Add An Expense</string>
+    <string name="tv_name">Expense Name</string>
+    <string name="tv_category">Category</string>
+    <string name="et_empty_hint" />
+    <string name="tv_amount">Amount</string>
+    <string name="bt_add">Add Expense</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="tv_details">Expense Details</string>
+    <string name="tv_exp_name">Name</string>
+    <string name="tv_date">Date</string>
+    <string name="bt_edit">Edit Expense</string>
+    <string name="bt_close">Close</string>
+    <string name="tv_edit">Edit Expense</string>
+    <string name="bt_save">Save</string>
+</resources>
