@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <string name="email_autofill">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_signup">Sign Up</string>
+    <string name="tv_name">Name</string>
+    <string name="ib_desc">Image Description</string>
+    <string name="token_key">token_key</string>
+    <string name="PREFERENCE">preference</string>
+    <string name="default_token">token</string>
+    <string name="tv_date">Received Date</string>
+    <string name="tv_subject">Subject</string>
+    <string name="tv_sender">Sender</string>
+    <string name="bt_close">Close</string>
+    <string name="tv_send_to">Send to:</string>
+    <string name="et_subject">Subject</string>
+    <string name="tv_message">Message</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_send">Send</string>
+    <string name="et_message_hint">Enter the Message</string>
+    <string name="empty_hint" />
+    <string name="et_subject_hint">Enter the Subject</string>
+    <string name="et_fname_hint">First Name</string>
+    <string name="et_lname_hint">Last Name</string>
+    <string name="et_email_hint">Email</string>
+    <string name="et_password_hint">Choose Password</string>
+    <string name="et_pass_conf_hint">Repeat Password</string>
+</resources>

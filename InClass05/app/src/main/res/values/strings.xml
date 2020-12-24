@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="bt_go">GO</string>
+    <string name="tv_key">Search Keyword</string>
+    <string name="image_desc">Image</string>
+    <string name="ib_prev_desc">Previous</string>
+    <string name="ib_next_desc">Next</string>
+</resources>

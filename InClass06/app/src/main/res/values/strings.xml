@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="news_key">ff6fdb73833644e3869f2ef64c553318</string>
+    <string name="show_categories">Show Categories</string>
+    <string name="bt_select">Select</string>
+    <string name="tv_time">Time Stamp</string>
+    <string name="tv_desc">Description</string>
+    <string name="tv_loading">Loading News....</string>
+    <string name="tv_title">title</string>
+    <string name="iv_image_desc">News Image</string>
+    <string name="ib_next_desc">Next Image desc</string>
+    <string name="ib_prev_desc">Prev Image Desc</string>
+    <string name="tv_current_text">Current News Item</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="tv_title">Welcome to Trivia App</string>
+    <string name="bt_exit">Exit</string>
+    <string name="bt_start">Start Trivia</string>
+    <string name="tv_loading">Loading Trivia</string>
+    <string name="iv_image_desc">Image Desc</string>
+    <string name="tv_trivia_ready">Trivia Ready</string>
+    <string name="tv_question">Q1</string>
+    <string name="tv_timer">Time Left: 120 seconds</string>
+    <string name="tv_loading_image">Loading Image</string>
+    <string name="bt_quit">Quit</string>
+    <string name="bt_next">Next</string>
+    <string name="tv_option">Option</string>
+    <string name="tv_stats">Trivia Stats</string>
+    <string name="tv_correct_ans">Correct Answers</string>
+    <string name="tv_percent">75%</string>
+    <string name="tv_try_again">Try again and see if you can get all the correct answers</string>
+    <string name="bt_try_again">Try Again</string>
+</resources>

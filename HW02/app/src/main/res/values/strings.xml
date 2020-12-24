@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HW02</string>
+    <string name="tv_limit">Limit: 10</string>
+    <string name="bt_search">Search</string>
+    <string name="bt_reset">Reset</string>
+    <string name="tv_sort">Sort By:</string>
+    <string name="tv_price">Price</string>
+    <string name="tv_date">Date</string>
+    <string name="tv_results">Results</string>
+    <string name="tv_loading">Loading</string>
+    <string name="iv_image_desc">Description</string>
+    <string name="bt_finish">Finish</string>
+    <string name="tv_album_price">Album Price</string>
+    <string name="tv_album">Album</string>
+    <string name="tv_track_price">Track Price</string>
+    <string name="tv_title">Title</string>
+    <string name="tv_genre">Genre</string>
+    <string name="tv_artist">Artist</string>
+    <string name="tv_releaseDate">Date: MM-DD-YYYY</string>
+</resources>
